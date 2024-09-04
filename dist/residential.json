@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Green Valley Single-Family Home",
+    "description": "A beautiful single-family home located in a serene environment with spacious rooms and a private garden.",
+    "category": "Single-family home",
+    "price": "20,000,000 BDT",
+    "status": "sale",
+    "area": "2500 sq ft",
+    "location": "Gulshan, Dhaka",
+    "facilities": ["living room", "garden", "garage", "Kitchen"],
+    "image": "https://i.ibb.co/ykQmKSq/Green-Valley-Single-Family-Home.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dhaka Modern Townhouse",
+    "description": "A modern townhouse in the heart of Dhaka, offering a luxurious living experience with all amenities.",
+    "category": "Townhouse",
+    "price": "35,000 BDT",
+    "status": "rent",
+    "area": "1800 sq ft",
+    "location": "Banani, Dhaka",
+    "facilities": ["living room", "swimming pool", "garage", "Kitchen"],
+    "image": "https://i.ibb.co/3TKCMHN/Downtown-Apartment.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lake View Apartment",
+    "description": "A luxurious apartment with a stunning lake view, perfect for a comfortable and modern lifestyle.",
+    "category": "Apartment",
+    "price": "15,000,000 BDT",
+    "status": "sale",
+    "area": "1500 sq ft",
+    "location": "Dhanmondi, Dhaka",
+    "facilities": ["living room", "swimming pool", "balcony", "Kitchen"],
+    "image": "https://i.ibb.co/gR1b273/Lake-View-Apartment.png"
+  },
+  {
+    "id": 4,
+    "name": "Urban Housing Complex",
+    "description": "Affordable housing units within a well-connected urban area, ideal for small families.",
+    "category": "Housing",
+    "price": "25,000 BDT",
+    "status": "rent",
+    "area": "1200 sq ft",
+    "location": "Mirpur, Dhaka",
+    "facilities": ["living room", "community hall", "parking", "Kitchen"],
+    "image": "https://i.ibb.co/JyKh7by/Urban-Housing-Complex.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Serenity Senior Living",
+    "description": "Senior living community offering a peaceful environment with healthcare facilities and recreation areas.",
+    "category": "Senior living community",
+    "price": "40,000 BDT",
+    "status": "rent",
+    "area": "1000 sq ft",
+    "location": "Uttara, Dhaka",
+    "facilities": ["living room", "healthcare center", "Kitchen"],
+    "image": "https://i.ibb.co/HhdXf69/Serenity-Senior-Living.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Beachside Vacation Rental",
+    "description": "A vacation rental with a beachside view, perfect for a relaxing holiday experience.",
+    "category": "Vacation rental",
+    "price": "5,000 BDT",
+    "status": "rent",
+    "area": "800 sq ft",
+    "location": "Cox's Bazar, Chattogram",
+    "facilities": ["living room", "beach access", "balcony", "Kitchen"],
+    "image": "https://i.ibb.co/Lg3kGwT/Beachside-Vacation-Rental.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Luxury Family Villa",
+    "description": "A spacious villa with luxurious interiors and a private pool, ideal for a large family.",
+    "category": "Single-family home",
+    "price": "60,000,000 BDT",
+    "status": "sale",
+    "area": "4000 sq ft",
+    "location": "Baridhara, Dhaka",
+    "facilities": ["living room", "private pool", "garage", "Kitchen"],
+    "image": "https://i.ibb.co/SxgBCGX/Luxury-Family-Villa.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cosy Townhouse",
+    "description": "A cosy townhouse in a quiet neighborhood, perfect for small families or couples.",
+    "category": "Townhouse",
+    "price": "30,000 BDT",
+    "status": "rent",
+    "area": "1400 sq ft",
+    "location": "Bashundhara, Dhaka",
+    "facilities": ["living room", "garden", "parking", "Kitchen"],
+    "image": "https://i.ibb.co/Sw6kzCR/Cosy-Townhouse.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Downtown Apartment",
+    "description": "An apartment located in the downtown area, close to all major shopping centers and offices.",
+    "category": "Apartment",
+    "price": "18,000,000 BDT",
+    "status": "sale",
+    "area": "1600 sq ft",
+    "location": "Motijheel, Dhaka",
+    "facilities": ["living room", "gym", "parking", "Kitchen"],
+    "image": "https://i.ibb.co/3TKCMHN/Downtown-Apartment.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mountain View Vacation Home",
+    "description": "A vacation home with a breathtaking view of the mountains, perfect for a weekend getaway.",
+    "category": "Vacation rental",
+    "price": "6,000 BDT",
+    "status": "rent",
+    "area": "900 sq ft",
+    "location": "Sreemangal, Sylhet",
+    "facilities": ["living room", "mountain view", "balcony", "Kitchen"],
+    "image": "https://i.ibb.co/hBjNJHw/Mountain-View-Vacation-Home.jpg"
+  }
+]
